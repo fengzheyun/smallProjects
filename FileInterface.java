@@ -82,29 +82,29 @@ public class FileInterface {
 	 * 
 	 * Example:
 	 * root |-- a		|-- publications		|-- a.pdf
-	 * 		|			|						|-- b.pdf
-	 * 		|			|-- publications.java
-	 * 		|
-	 * 		|-- b		|-- icons				|-- email.png
-	 * 		|			|						|-- facebook.png
-	 *  	|			|						|-- linkedin.png
-	 *  	|			|
-	 * 		|			|-- images				|-- temp.jpg
-	 * 		|			|						|-- tgbt.png
-	 * 		|			|
-	 * 		|			|-- tksgdt				|-- a.bib
-	 * 		|			|-- icons.png
-	 * 		|			|-- images.png
-	 * 		|			|-- tksgdt.bib
-	 * 		|
-	 *  	|-targetgkt	|-- math				|-- math.tex
-	 *  	|			|						|-- math.log
-	 *  	|			|
-	 *  	|			|-- tagt				|-- targqt.m
-	 *  	|			|-- math.pdf
-	 *  	|			|-- tagt.eps
+	 * 	|		|				|-- b.pdf
+	 * 	|		|-- publications.java
+	 * 	|
+	 * 	|-- b		|-- icons			|-- email.png
+	 * 	|		|				|-- facebook.png
+	 *  	|		|				|-- linkedin.png
+	 *  	|		|
+	 * 	|		|-- images			|-- temp.jpg
+	 * 	|		|				|-- tgbt.png
+	 * 	|		|
+	 * 	|		|-- tksgdt			|-- a.bib
+	 * 	|		|-- icons.png
+	 * 	|		|-- images.png
+	 * 	|		|-- tksgdt.bib
+	 * 	|
+	 *  	|-targetgkt	|-- math			|-- math.tex
+	 *  	|		|				|-- math.log
+	 *  	|		|
+	 *  	|		|-- tagt			|-- targqt.m
+	 *  	|		|-- math.pdf
+	 *  	|		|-- tagt.eps
 	 *  	|-- a.txt
-	 * 		|-- b.dvi
+	 * 	|-- b.dvi
 	 *  	|-- targetgkt.pdf
 	 * 
 	 * */
