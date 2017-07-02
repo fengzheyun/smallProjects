@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class knightBoard {
-	static Cruise_knightBoard p = new Cruise_knightBoard();
+	static knightBoard p = new knightBoard();
 	
 	private static final int[][] VALIDMOVES = {	{1,2}, {-1,2}, {1,-2}, {-1,-2}, {2,1}, {-2,1}, {2,-1}, {-2,-1}};
 
